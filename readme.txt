@@ -1,3 +1,2 @@
-this is a learning of git
-git is so powerful,i can't believe
-git is free software
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
